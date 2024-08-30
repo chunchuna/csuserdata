@@ -1,0 +1,57 @@
+"screenshots"
+{
+	"730"
+	{
+		"0"
+		{
+			"type"		"1"
+			"filename"		"730/screenshots/20240513013502_1.jpg"
+			"thumbnail"		"730/screenshots/thumbnails/20240513013502_1.jpg"
+			"vrfilename"		""
+			"imported"		"1"
+			"width"		"1280"
+			"height"		"960"
+			"gameid"		"730"
+			"creation"		"1715535302"
+			"caption"		""
+			"Permissions"		"2"
+			"hscreenshot"		"18446744073709551615"
+			"publishedfileid"		"0"
+		}
+		"1"
+		{
+			"type"		"1"
+			"filename"		"730/screenshots/20240416213309_1.jpg"
+			"thumbnail"		"730/screenshots/thumbnails/20240416213309_1.jpg"
+			"vrfilename"		""
+			"imported"		"1"
+			"width"		"1280"
+			"height"		"960"
+			"gameid"		"730"
+			"creation"		"1713274389"
+			"caption"		""
+			"Permissions"		"2"
+			"hscreenshot"		"18446744073709551615"
+			"publishedfileid"		"0"
+		}
+		"2"
+		{
+			"type"		"1"
+			"filename"		"730/screenshots/20240416213259_1.jpg"
+			"thumbnail"		"730/screenshots/thumbnails/20240416213259_1.jpg"
+			"vrfilename"		""
+			"imported"		"1"
+			"width"		"1280"
+			"height"		"960"
+			"gameid"		"730"
+			"creation"		"1713274379"
+			"caption"		""
+			"Permissions"		"2"
+			"hscreenshot"		"18446744073709551615"
+			"publishedfileid"		"0"
+		}
+	}
+	"shortcutnames"
+	{
+	}
+}

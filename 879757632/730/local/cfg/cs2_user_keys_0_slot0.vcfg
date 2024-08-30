@@ -1,0 +1,15 @@
+"config"
+{
+	"bindings"
+	{
+		"z"		"+voicerecord"
+		"MOUSE4"		"<unbound>"
+		"a"		"+a"
+		"d"		"+d"
+		"s"		"+back"
+		"w"		"+forward"
+		"CAPSLOCK"		"+Ljt"
+		"ALT"		"+jt"
+		"KP_MULTIPLY"		"cl_mute_enemy_team 1"
+	}
+}
